@@ -33,6 +33,11 @@ There are different sources of spending data:
 * public bank transactions data (spending part) - http://spending.gov.ua/
 * contracting data
 
+### Public bank transactions data
+
+The following repository contains scripts to download http://spending.gov.ua data:
+https://github.com/datagovua/spending-data
+
 ## Contracting data
 
 [Open contracting data standard](http://ocds.open-contracting.org/standard/r/1__0__0/en/schema/reference/) defines the following stages of contracting:
@@ -42,6 +47,10 @@ There are different sources of spending data:
 * award (оголошення переможця) - ProZorro API та http://drz.lanet.ua/updates/
 * contract (підписання договору)
 * implementation (виконання робіт, перерахування коштів) - http://spending.gov.ua/
+
+The following repository contains scripts to download procurement data:
+
+https://github.com/datagovua/zakupivli
 
 ## Organizations
 
