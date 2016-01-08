@@ -16,7 +16,9 @@ There are different types of budgeted operations:
 * expenditure (spending)
 * transfer
 * loan
-* debt
+* loan return
+* credit
+* credit return
 
 [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/#data-files) tries to define a standard representation of budgeting data.
 
