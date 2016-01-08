@@ -22,6 +22,8 @@ There are different types of budgeted operations:
 
 [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/#data-files) tries to define a standard representation of budgeting data.
 
+There are some state budget parsing scripts in this repository: https://github.com/datagovua/budget
+
 ## Spending data
 
 Actual spending data can be different from budgeted.
