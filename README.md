@@ -29,7 +29,10 @@ There are some state budget parsing scripts in this repository: https://github.c
 Actual spending data can be different from budgeted.
 There are different sources of spending data:
 
-* budget execution reports (spending part) - http://www.treasury.gov.ua/main/uk/doccatalog/list?currDir=146477
+* budget execution reports (spending part)
+  * [Виконання Державного бюджету України](http://www.treasury.gov.ua/main/uk/doccatalog/list?currDir=146477)
+  * [Показники виконання Державного бюджету України](http://195.78.68.18/minfin/control/uk/publish/archive/main?cat_id=77643)
+
 * public bank transactions data (spending part) - http://spending.gov.ua/
 * contracting data
 
