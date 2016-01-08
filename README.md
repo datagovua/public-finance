@@ -4,6 +4,12 @@ Ukraine's public finance data sources
 
 ## Budget
 
+There are different levels of budget data:
+
+ * State budget
+ * Region budget
+ * City budget
+
 [Fiscal Data Package](http://fiscal.dataprotocols.org/spec/#data-files) defines following budget entities
 
 * revenue
