@@ -10,12 +10,15 @@ There are different levels of budget data:
  * Region budget
  * City budget
 
-[Fiscal Data Package](http://fiscal.dataprotocols.org/spec/#data-files) defines following budget entities
+There are different types of budgeted operations:
 
 * revenue
 * expenditure (spending)
-* transfers
-* loans
+* transfer
+* loan
+* debt
+
+[Fiscal Data Package](http://fiscal.dataprotocols.org/spec/#data-files) tries to define a standard representation of budgeting data.
 
 ## Spending data
 
